@@ -36,7 +36,7 @@ This repository includes:
 
 **AMPO**, a novel framework that intelligently leverages guidance from multiple, diverse teacher models, intervening only when the on-policy model fails. Our two core contributions, Adaptive Multi-Guidance Replacement and Comprehension-based Guidance Selection, ensure that this external knowledge is used both efficiently and effectively.
 
-![overview](./figures/AMPO_framework.png)
+![overview](./figures/AMPO_framework.pdf)
 
 ### Key Highlights:
 - **Adaptive Multi-Guidance Replacement**: Minimizes intervention by providing external guidance only upon complete on-policy failure, preserving self-discovery while enhancing reasoning efficiency.
