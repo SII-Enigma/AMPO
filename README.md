@@ -81,7 +81,7 @@ bash eval_scripts/run_eval_pass_k.sh # For eval pss_at_k
 
 ## Inference
 
-Here’s an example of using ReLIFT for inference:
+Here’s an example of using AMPO for inference:
 
 <details>
 <summary>Click to view inference example</summary>
