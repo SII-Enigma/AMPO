@@ -520,7 +520,7 @@ class MIXActorRolloutRefWorker(Worker, DistProfilerExtension):
             # "RuntimeError: No CUDA GPUs are available".
             # For this reason, sharding_manager.__init__ should not import FSDPSGLangShardingManager and
             # we import it here use the abs path.
-             from verl.workers.sharding_manager.fsdp_sglang import FSDPSGLangShardingManager
+            from verl.workers.sharding_manager.fsdp_sglang import FSDPSGLangShardingManager
 
             local_path = copy_to_local(self.config.model.path)
             log_gpu_memory_usage(f"Before building {rollout_name} rollout", logger=logger)
