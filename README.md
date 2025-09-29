@@ -112,7 +112,7 @@ print(outputs[0].outputs[0].text)
 |-----------|----------------|
 | SII-Enigma/Qwen2.5-7B-Ins-AMPO  [Link](https://huggingface.co/SII-Enigma/Qwen2.5-7B-Ins-AMPO) | Qwen2.5-7B-Instruct  [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) |
 | SII-Enigma/Qwen2.5-1.5B-Ins-AMPO  [Link](https://huggingface.co/SII-Enigma/Qwen2.5-1.5B-Ins-AMPO) | Qwen2.5-1.5B-Instruct  [Link](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) |
-| SII-Enigma/Llama3.2-8B-Ins-AMPO  [Link](https://huggingface.co/SII-Enigma/Llama3.2-8B-Ins-AMPO) | Llama-3-8B-Instruct  [Link](https://huggingface.co/meta-llama/Meta-Llama-3-8B-Instruct) |
+| SII-Enigma/Llama3.2-8B-Ins-AMPO  [Link](https://huggingface.co/SII-Enigma/Llama3.2-8B-Ins-AMPO) | Llama-3.2-8B-Instruct  [Link](https://modelscope.cn/models/voidful/Llama-3.2-8B-Instruct) |
 
 # Acknowledgement
 
