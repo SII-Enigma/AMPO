@@ -42,7 +42,9 @@ This repository includes:
 - **Adaptive Multi-Guidance Replacement**: Minimizes intervention by providing external guidance only upon complete on-policy failure, preserving self-discovery while enhancing reasoning efficiency.
 - **Comprehension-based Guidance Selection**: Improves learning effectiveness by guiding the model to assimilate the most comprehensible external solutions, demonstrably boosting performance.
 - **Superior Performance:** Achieves better performance and efficiency compared to using RL or SFT alone.
-
+- 
+### Main Evaluation Results
+![overview](./figures/main_results.png)
 ---
 
 # Usage
