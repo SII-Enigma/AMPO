@@ -2,6 +2,9 @@
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.02227) [![Github](https://img.shields.io/badge/AMPO-000000?style=for-the-badge&logo=github&logoColor=000&logoColor=white)](https://github.com/SII-Enigma/AMPO)   [![Hugging Face](https://img.shields.io/badge/AMPO-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/SII-Enigma)
+
+
 # ✨Getting Started
 
 ## Installation
