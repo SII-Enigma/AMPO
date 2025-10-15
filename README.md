@@ -123,3 +123,17 @@ print(outputs[0].outputs[0].text)
 # Acknowledgement
 
 AMPO builds upon [LUFFY](https://github.com/ElliottYan/LUFFY), [veRL](https://github.com/volcengine/verl), [RLPR](https://github.com/OpenBMB/RLPR) and utilizes [vLLM](https://github.com/vllm-project/vllm) for inference. We utilize [Math-Verify](https://github.com/huggingface/Math-Verify) for math reasoning evaluation. We thank the open-source community for codes, datasets and backbones.
+
+# Citation
+If you find our model, data, or evaluation code useful, please kindly cite our paper:
+```bib
+@misc{yuan2025teacheradaptivemultiguidancepolicy,
+      title={More Than One Teacher: Adaptive Multi-Guidance Policy Optimization for Diverse Exploration}, 
+      author={Xiaoyang Yuan and Yujuan Ding and Yi Bin and Wenqi Shao and Jinyu Cai and Jingkuan Song and Yang Yang and Heng Tao Shen},
+      year={2025},
+      eprint={2510.02227},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2510.02227}, 
+}
+```
